@@ -12,6 +12,5 @@ The game is draw when the board is full and there is no winning moves
 The program needs to guide players along the way and announce the winner if game is won
 
 To execute the game:
-Pour lancer le jeu :
 1) run the command "bundle install"
 2) run the command "app.rb"
